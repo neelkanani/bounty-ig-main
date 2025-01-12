@@ -19,6 +19,8 @@ There are few features that can be added to the app
 3. Balance update after transaction in our code
 4. Review for the developer
 5. For SAAS product have a admin role who can view a developer and customer - monthly active user and payment generation
+6. Add middlewares for JWT node BE
+7. More improved RBAC system
 
 This can act as the base for your initial development 
 Make changes before production
