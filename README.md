@@ -2,11 +2,14 @@
 
 # Make Sure to follow all the instructions in the readme files.
 
-Frontend - [Frontend Code] (https://github.com/neelkanani/bounty-ig-BE)
+Frontend - [Frontend Code] (https://github.com/neelkanani/bounty-ig-BE) 
+Run frontend app on 3002
 
 Backend - [Backend Code] (https://github.com/neelkanani/bounty-ig-BE)
+Run backend app on 3000
 
 TWILIO APP - [TWILIO Video call] (https://github.com/twilio/twilio-video-app-react)
+Run the app on 3001
 
 # Note
 
