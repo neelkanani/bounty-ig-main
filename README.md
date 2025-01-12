@@ -25,3 +25,6 @@ There are few features that can be added to the app
 This can act as the base for your initial development 
 Make changes before production
 
+
+Demo link - https://youtu.be/0vha4Hoa29Q
+LinkedIn - https://www.linkedin.com/in/neel-kanani-88210a169/
